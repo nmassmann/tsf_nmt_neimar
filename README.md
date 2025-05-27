@@ -1,7 +1,3 @@
-Neimar
-
-
-
 ## Given that I haven't been working on this project for a while and Tensorflow is under havy development, my code got oudated. I'm planning to restart working on it at early January (2017). If you're insterestd on it, please check it again later on Jnauary, 2017. 
 
 ## Thanks.
